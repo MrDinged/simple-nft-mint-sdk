@@ -1,0 +1,14 @@
+{
+  "name": "simple-nft-mint-growth-bot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Install and smoke-check simple-nft-mint SDK",
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "simple-nft-mint": "latest"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
